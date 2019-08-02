@@ -1,1 +1,3 @@
-
+Assignment 2 by Nathan Caplan (nbc270)
+<iframe width="450" height="600" src='hw_2.html'></iframe>
+The challenge was to accurately map out a bus route for a certain line, their respotive stops, and the busses locations at a certain time. For the purpose of this visualization I used the M11 bus line which goes from Riverbank Park down to the West Village. I chose 12:38 PM to map out bus locations, as explained above. The color line indidcates the beginning of the route (blue) which changes over the length of the route to red (the end). We see the live bus locations using green markers, some of which were at bus stops, using blue markers. This visualization uses many idioms, such as zoom control, which is necessary to view the viz in great detail, layer control, in order to see or remove from view certain icons, and tool tip which provides captions of bus stops and bus names.
